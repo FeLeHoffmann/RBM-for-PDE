@@ -12,3 +12,6 @@ Main ToDo:
 4. Investigating Parallel Processing.
 5. Extraction ROM out of Parameter Investigation. 
 6. Finishing up the Book "RBM for PDE".
+
+
+NB: For Windows Users, Install Linux Subsystem for Setup

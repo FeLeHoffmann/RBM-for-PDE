@@ -18,3 +18,4 @@ Main ToDo:
 ---
 
 NB: For Windows Users, Install Linux Subsystem for Setup
+NB: Do the SetUp in Docker to allow easier reproducibility. You can follow [git - Docker](https://github.com/FEniCS/dolfinx#docker-images) 
